@@ -1,0 +1,100 @@
+{
+  "id": "2571210",
+  "name": "MIUI-site",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1568041",
+      "name": "7天",
+      "font_class": "tian",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "2924334",
+      "name": "15天",
+      "font_class": "tian1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10867759",
+      "name": "工具",
+      "font_class": "gongju",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18261995",
+      "name": "定位",
+      "font_class": "Frame1",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7206377",
+      "name": "购物车",
+      "font_class": "che",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "2250489",
+      "name": "礼盒",
+      "font_class": "lihe",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2693197",
+      "name": "米粉卡",
+      "font_class": "mifenqia",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3437060",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "7647919",
+      "name": "小米商城F码",
+      "font_class": "xiaomishangchengFma",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "8953476",
+      "name": "话费充值",
+      "font_class": "youhuidd",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9026990",
+      "name": "以旧换新",
+      "font_class": "yijiuhuanxin",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "19935743",
+      "name": "右箭头",
+      "font_class": "iconfontyoujiantou-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "21439899",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
